@@ -18,7 +18,7 @@ setup(
         'pennylane>=0.5.0',
         'numpy',
         'scipy',
-        'qulacs'
+        'qulacs-gpu'
     ],
     packages=['pennylane_qulacs'],
     entry_points={
